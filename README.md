@@ -13,4 +13,5 @@
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="Abdel | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />](https://www.linkedin.com/in/abdel-b-893256362/)
+[<img align="left" alt="Abdel | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />](https://www.linkedin.com/in/abdel-b-893256362/)  
+[LinkedIn](https://www.linkedin.com/in/abdel-b-893256362/)
